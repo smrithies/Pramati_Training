@@ -3,13 +3,20 @@
 #### Interview Process:
 
 - Application : Applied through online
-  1. Hackerrank online test : Two to three programming questions which were based on string handling, array operations for completing which 1 hour 30 minutes were given.
-  2. Skype Interview : Explanation for the programs from online test followed by technical  and projects explaination      the technical dicussion where general details like family details and previous company experiences were asked
+  1. Hackerrank online test :
+  - Two to three programming questions which were based on string handling, array operations for completing which 1 hour 30 minutes were given.
+  2. Skype Interview : 
+  - There were more than one skype round and extended for more than one day. 
+  - Explanation for the programs from online test followed by technical and projects explaination.
+  - Interview was also coding based and was able to use any language. 
+  - They asked to share screen and, programs based on some pattern printing,string manipulation were given. 
+  - Made the candidates to explain the logic used in the programs and asked to make some modifications.
+  - Given assignments on new topics and programming languages.
 
 #### Positive feedback 
 
 - Giving enough time to answer their questions, and clarifying our doubts in their questions without any hesitation. 
-- Giving interview online is bit comfortable. coming from different locations to attend the interview would have been difficult.
+- Giving interview online is bit comfortable. Coming from different locations to attend the interview would have been difficult.
 
 #### Negative Feedback :
 
