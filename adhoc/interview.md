@@ -3,14 +3,14 @@
 #### Interview Process:
 
 - Application : Applied through online.
-  1. Online Test : Hackerrank Screening test
+  1. Online Test : Hackerrank screening test
   2. Skype Interview : Explaination for the programs from online test followed by technical questions and projects explaination. 
-  3. HR round followed the technical dicussion where general details like family details and previous company experiences were asked
+  3. HR round : Followed the technical dicussion where general details like family details and previous company experiences were asked
 
 
 #### Positive feedback : 
-- Fast process of hiring,which completed in a single day.
-- Giving enough time to answer their questions,and clarifying our doubts in their questions without any hesitation.
+- Fast process of hiring, which completed in a single day.
+- Giving enough time to answer their questions, and clarifying our doubts in their questions without any hesitation.
 - Challenging and interesting questions.
 - Giving interview online is bit comfortable. 
 
