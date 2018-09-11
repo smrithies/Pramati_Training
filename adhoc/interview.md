@@ -1,4 +1,4 @@
-## Interview Experience – Pramati – (Full Time Employees)
+## Interview Experience – Pramati – (Freshers)
 
 #### Interview Process:
 
